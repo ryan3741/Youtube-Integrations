@@ -3,3 +3,5 @@ Code for YouTube integrations including using the YouTube API to automatically u
 
 finalUploadVideo.py
 contains all of the code neccessary to run the script to upload a video and associated meta-data to YouTube
+
+ExampleData.csv shows the neccessary meta-data format including title, description, and tags
